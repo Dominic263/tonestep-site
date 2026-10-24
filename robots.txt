@@ -1,0 +1,5 @@
+# Search engines and AI assistants are welcome: Tonestep wants to be found.
+User-agent: *
+Allow: /
+
+Sitemap: https://tonestep.app/sitemap.xml
