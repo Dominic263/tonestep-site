@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tonestep.app/sitemap.xml
+Sitemap: https://dominic263.github.io/tonestep-site/sitemap.xml
